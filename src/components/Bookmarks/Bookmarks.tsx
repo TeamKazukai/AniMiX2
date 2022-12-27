@@ -101,7 +101,7 @@ const Bookmarks = () => {
             id="top-anime"
           >
             <div className=" ml-6 mb-4">
-              <h1 className="outfit-light text-orange-300 text-[32px]">
+              <h1 className="outfit-light text-redor text-[32px]">
                 {bookmarks.length > 0
                   ? "Watchlist"
                   : "Build your watchlist by checking out some anime!"}
