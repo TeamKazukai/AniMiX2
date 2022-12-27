@@ -5,7 +5,7 @@
 
 <p align="center"> Don't forget to 🌟 this repo for updates! <p/>
 
-<img width="1440" alt="image" src="https://i.ibb.co/jwbLjdd/Screenshot-14.png">
+<img width="1440" alt="image" src="https://i.ibb.co/wzChz3Q/Screenshot-15.png">
 
 <h2>Responsive to most devices </h2>
 <div class="flex" align="center"> 
