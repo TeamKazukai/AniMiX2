@@ -92,7 +92,7 @@ const ContinueWatching = () => {
 
   return (
     <div className="z-10 mt-6 lg:mt-6 xl:mt-0 2xl:mt-4">
-      <h3 className=" 2xl:ml-5 xl:ml-0 outfit-light lg:ml-2 text-orange-300 text-[32px] relative">
+      <h3 className=" 2xl:ml-5 xl:ml-0 outfit-light lg:ml-2 text-redor text-[32px] relative">
         Continue Watching
       </h3>
       <div className="2xl:ml-4 xl:-ml-1">

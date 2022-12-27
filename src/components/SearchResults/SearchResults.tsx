@@ -132,7 +132,7 @@ const SearchResults = () => {
                 <span className="outfit-light text-white text-[32px]">
                   {handleSearchTitleStart()}
                 </span>
-                <span className="outfit-light text-orange-300 text-[32px] ">
+                <span className="outfit-light text-redor text-[32px] ">
                   {handleSearchTitleEnd()}
                 </span>
               </div>

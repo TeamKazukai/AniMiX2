@@ -86,8 +86,8 @@ export const Popular = () => {
 
   return (
     <div className="z-10 lg:-ml-2 lg:mt-0 lg:mt-6 ">
-      <h3 className="outfit-light text-orange-300 text-[32px] 2xl:ml-8 xl:ml-2 lg:ml-6 relative">
-        Popular Anime
+      <h3 className="outfit-light text-redor text-[32px] 2xl:ml-8 xl:ml-2 lg:ml-6 relative">
+        Popular Animes
       </h3>
       <div className="flex recent-height justify-center 2xl:mr-6 2xl:ml-8  ">
         <Swiper
@@ -135,7 +135,7 @@ export const Popular = () => {
                       <div className="flex flex-col justify-center">
                         <div className="flex gap-2 justify-center items-center">
                           <p className="outfit-medium lg:mt-2 mt-1 lg:mx-0 text-white hover:text-redor transition-all ease-in-out lg:text-[12px] text-[12px] cursor-pointer text-center">
-                            Score: {anime.rating}
+                            Rating: {anime.rating}
                           </p>
                         </div>
                         <h3 className="h-14 lg:h-12 overflow-clip outfit-medium lg:mt-2 lg:mx-0 mt-1 text-white hover:text-redor transition-all ease-in-out lg:text-[16px] text-[12px] cursor-pointer text-center">

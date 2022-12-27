@@ -85,7 +85,7 @@ const TopAnime = ({ currentPage, paginate }: props) => {
 
   const handleTitle = () => {
     if (format.name === "") {
-      return "Top Anime";
+      return "Top Animes";
     } else if (format.name === "TV") {
       return "Top TV Shows";
     } else if (format.name === "Movie") {
@@ -97,7 +97,7 @@ const TopAnime = ({ currentPage, paginate }: props) => {
     <div className="lg:mt-8 mt-4" id="top-anime">
       <div className="flex justify-between">
         {searchResults && (
-          <h2 className="outfit-light 2xl:ml-8 lg:ml-3 text-orange-300 text-[32px] mb-4 z-10">
+          <h2 className="outfit-light 2xl:ml-8 lg:ml-3 text-redor text-[32px] mb-4 z-10">
             {handleTitle()}
           </h2>
         )}

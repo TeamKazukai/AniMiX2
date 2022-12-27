@@ -93,7 +93,7 @@ const Filter = () => {
 
   return (
     <div className="flex flex-col mb-10">
-      <h2 className="text-[32px] text-orange-300 outfit-medium mb-4">Filter</h2>
+      <h2 className="text-[32px] text-redor outfit-medium mb-4">Filter</h2>
       <div>
         <div className="flex gap-2">
           {isMobile && (
