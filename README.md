@@ -17,35 +17,6 @@
 
   </div>
 
-## Summary
-
-### Tech Utilized
-
-<!-- DEPENDENCY BADGES -->
-<p align="center">
-   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ashanime/Ashanime-Web-App/typescript?logo=typescript&style=flat-square">
-  </a>
-  <a href="https://17.reactjs.org/">
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ashanime/Ashanime-Web-App/react?filename=package.json&color=5fd9fb&logo=react&labelColor=222435&style=flat-square">
-  </a>
-  <a href="https://redux-toolkit.js.org/">
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ashanime/Ashanime-Web-App/@reduxjs/toolkit?filename=package.json&label=redux-toolkit&color=593d88&logo=redux&labelColor=242526&style=flat-square&logoColor=b58bf7">
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ashanime/Ashanime-Web-App/dev/tailwindcss?filename=package.json&color=37b8f1&logo=tailwindcss&labelColor=0b1120&style=flat-square&logoColor=38bdf8">
-  </a>
-  <a href="https://www.framer.com/motion">
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ashanime/Ashanime-Web-App/framer-motion?logo=framer&style=flat-square">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ashanime/Ashanime-Web-App/firebase?color=yellow&logo=firebase&style=flat-square">
-     </a>
-  <a href="https://headlessui.com/">
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ashanime/Ashanime-Web-App/@headlessui/react?logo=headless-ui&style=flat-square">
-  </a>
-</p>
-
 <h2> App Features </h2>
 
 ### Popular, trending, and recently released Animes
