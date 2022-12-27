@@ -9,8 +9,8 @@
 
 <h2>Responsive to most devices </h2>
 <div class="flex" align="center"> 
-  <img width="313" alt="image" src="https://user-images.githubusercontent.com/96653465/187175226-c6f33a73-910c-4423-bbf9-4eedf9f15754.jpeg")>
-  <img width="313" alt="image" src="https://user-images.githubusercontent.com/96653465/187175668-8c83a384-78a9-45dc-9b0e-3f7e49054db9.jpeg">
+  <img width="313" alt="image" src="https://i.ibb.co/jwbLjdd/Screenshot-14.png")>
+  <img width="313" alt="image" src="https://i.ibb.co/wzChz3Q/Screenshot-15.png">
   <img width="313" alt="image" src="https://user-images.githubusercontent.com/96653465/187175995-a9dcfa81-ade4-4e8d-accb-33f920aa3cae.jpeg">
   <img width="313" alt="image" src="https://user-images.githubusercontent.com/96653465/187183534-4c304a66-dd26-4878-99f8-9965f02d98c1.jpeg">
 
@@ -110,28 +110,8 @@ This will start the app on http://localhost:3000
 This app would not have been possible without the kind and rapid support of the experts over at [Consumet](https://github.com/consumet).
 Ashanime was built using the Consumet API to supply 95% of the data.
 
-## Ecosystem
-
--   [Discord Server](https://discord.gg/zT22GZya) - Join our discord server and chat with the developers.
-
-## Support
-
-You can contact the developers of Ashanime via [email](mailto:help.ashanime@gmail.com), or [join the discord server](https://discord.gg/zT22GZya) (Recommended).
-
-<a href="https://discord.gg/G8W8wwEWfj">
-   <img src="https://discordapp.com/api/guilds/1013555216425173053/widget.png?style=banner2">
-</a>
-
-## Contributors ✨
-
-Thanks to the following people for taking this app to new heights.
-
-[![](https://avatars.githubusercontent.com/u/96653465?s=50)](https://github.com/ahmedalashhab) [![](https://avatars.githubusercontent.com/u/5903821?s=50)](https://github.com/smashah)
 
 ## License
 
 Licensed under [AG](./LICENSE).
 
-## Sponsor this project
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ahmedalashhab)
