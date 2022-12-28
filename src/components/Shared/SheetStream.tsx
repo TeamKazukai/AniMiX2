@@ -252,7 +252,7 @@ export default function SheetStream({ setToggle, toggle, modalId }: props) {
                       </div>
                     </div>
                     <p className="text-white outfit-medium lg:text-[12px] text-[14px] text-center mt-4">
-                      Score: {modalData.rating}
+                      Rating: {modalData.rating}
                     </p>
                     <div className="flex justify-center my-4">
                       <ToggleDub handleToggle={handleToggleDub} dub={dub} />

@@ -269,7 +269,7 @@ export default function ModalStream({
                         {modalData.episodes?.length > 1 ? "TV Show" : "Movie"}
                       </span>
                       <span className="text-white outfit-light lg:text-[16px] md:text-[14px] text-[10px]  text-center">
-                        Score: {modalData.rating}
+                        Rating: {modalData.rating}
                       </span>
                       <span className="text-white outfit-light lg:text-[16px] md:text-[14px] text-[10px]  text-center">
                         Episodes Aired: {modalData?.episodes?.length}

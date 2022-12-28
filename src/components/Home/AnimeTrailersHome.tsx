@@ -81,7 +81,7 @@ const AnimeTrailersHome = () => {
 
   return (
     <div className="z-10 lg:ml-0 lg:mb-6 ">
-      <h3 className=" 2xl:ml-5 xl:ml-5 lg:ml-6 outfit-light text-redor text-[32px] relative mb-4">
+      <h3 className=" 2xl:ml-5 xl:ml-5 lg:ml-6 outfit-bold text-redor text-[26px] relative mb-4">
         Upcoming Animes
       </h3>
       <div className="whitespace-nowrap overflow-y-hidden lg:px-5 flex items-center justify-center">

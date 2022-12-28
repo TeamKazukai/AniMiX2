@@ -60,7 +60,7 @@ const AnimeGrid = ({
                 </span>
               )}
               <span className="outfit-light text-white lg:text-[13px] text-[8px]">
-                Score: {anime.rating}
+                Rating: {anime.rating}
               </span>
             </div>
             <div className="w-52 flex justify-center">

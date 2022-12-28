@@ -52,7 +52,7 @@ export default function ToggleAiring({ paginate }: props) {
       </Switch>
       <Switch.Label as="span" className="ml-3 z-10">
         <span className="outfit-light text-white">
-          Airing only: {airing ? "yes" : "no"}
+          Airing only: {airing ? "Yes" : "No"}
         </span>
       </Switch.Label>
     </Switch.Group>

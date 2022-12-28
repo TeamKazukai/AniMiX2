@@ -111,7 +111,7 @@ const Recommended = ({ getAnimeDetails, setModalId, data, local }: props) => {
 
   return (
     <section className="mb-6">
-      <h2 className="text-redor md:mx-4 xl:text-[24px] xl:mx-8 lg:mx-8  mx-4 text-[18px] outfit-medium mt-4 lg:-mb-2">
+      <h2 className="outfit-bold 2xl:ml-8 lg:ml-3 text-redor text-[26px] mb-4 z-10">
         More like this
       </h2>
       <div className=" flex justify-center">
@@ -145,7 +145,7 @@ const Recommended = ({ getAnimeDetails, setModalId, data, local }: props) => {
                     />
                     <div className="flex flex-col justify-center items-center mx-4">
                       <p className="outfit-medium  mt-2 lg:mx-0 text-white hover:text-redor transition-all ease-in-out lg:text-[12px] text-[12px] cursor-pointer text-center">
-                        Score: {anime.rating}
+                        Rating: {anime.rating}
                       </p>
                       <h3 className="h-14 lg:h-12 overflow-clip outfit-medium  lg:mx-0 mt-1 text-white hover:text-redor transition-all ease-in-out lg:text-[16px] text-[12px] cursor-pointer text-center">
                         {title}

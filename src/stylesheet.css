@@ -24,6 +24,10 @@ html {
 font-family: Consolas	, Consolas;
     font-weight: 500;
 }
+.outfit-bold{
+    font-family:Franklin Gothic Medium ,Franklin Gothic Medium;
+    font-weight: Bold;
+}
 
 .page-bg {
     background-color: var(--whole-page);

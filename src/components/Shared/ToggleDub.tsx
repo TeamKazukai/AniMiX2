@@ -30,7 +30,7 @@ export default function ToggleDub({ handleToggle, dub }: props) {
       </Switch>
       <Switch.Label as="span" className="ml-3">
         <span className="outfit-light text-white">
-          Dub: {dub ? "yes" : "no"}
+          Dub: {dub ? "Yes" : "No"}
         </span>
       </Switch.Label>
     </Switch.Group>
