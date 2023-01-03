@@ -41,17 +41,17 @@ Have a long list of animes that you wish to watch? Awesome! Once you click on an
 
 ### User account synchronization
 
-Here at Ashanime, we use firebase to sync your information to the cloud. Log in from anywhere and find your watchlist, shows watched and last episodes watched all available to you via the cloud.
+Here at AniMiX, we use firebase to sync your information to the cloud. Log in from anywhere and find your watchlist, shows watched and last episodes watched all available to you via the cloud.
 
 ### PWA compliant
 
-Tired of repeatedly opening the browser and searching for Ashanime every single time you feel like Bing Chilling? No worries fam. Be it on Android, iOS, MacOS, or PC, simply download the PWA from your chrome browser and install Ashanime right on your device! You'll receieve updates automatically whenever you open your app.
+Tired of repeatedly opening the browser and searching for AniMiX every single time you feel like Bing Chilling? No worries fam. Be it on Android, iOS, MacOS, or PC, simply download the PWA from your chrome browser and install AniMiX right on your device! You'll receieve updates automatically whenever you open your app.
 
 ## Local Deployment
 
 ### Firebase Installation
 
-To use Ashanime with firebase, create a firebaseConfig.js file in Ashanime-Web-App/src/firebase and insert your firebase config details therein.
+To use AniMiX with firebase, create a firebaseConfig.js file in AniMiX/src/firebase and insert your firebase config details therein.
 Be sure to create an export const with the name "firebaseConfig".
 See example below:
 
@@ -84,7 +84,7 @@ You need to have `nodejs` and `git` installed on your pc for the upcoming steps.
 First download the repository using
 
 ```
-git clone https://github.com/Ashanime/Ashanime-Web-App
+git clone https://github.com/BLVCK-ANGEL/AniMiX
 ```
 
 This should download this repository to your computer. Next, to download the dependencies run
